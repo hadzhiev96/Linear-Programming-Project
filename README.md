@@ -1,4 +1,4 @@
-# Linear Programming and Convex Optimization: An Introduction
+# Linear Programming: An Introduction
 
 ## Overview
 Optimization is a fundamental concept across various fields, from mathematics and computer science to operations research and engineering. Its applications span multiple industries, including aerospace, chemical, electrical, mechanical, finance, and e-commerce, making it essential for solving real-world problems efficiently.
